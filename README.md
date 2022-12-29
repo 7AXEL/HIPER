@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/   DISCLAIMER   -yellow?style=for-the-badge">
 
-### CLOUDFTP
+### HIPER
 This tool was invented by the developer A.X.E.L to be used to send emails or carry out spam attacks
 ### INSTALLATION
 - Just Follow steps
